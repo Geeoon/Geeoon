@@ -1,4 +1,4 @@
-Hi, I’m Geeoon.  I am looking for work in the Seattle area or the Kansas City area.
+Hi, I’m Geeoon.  I am looking for work in the Seattle area or the Kansas City area.  I'm currently an undergraduate at the University of Washington.
 
 I focus on cybersecurity and full stack development.
 <!---
