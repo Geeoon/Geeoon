@@ -2,9 +2,9 @@ Hi, I’m Geeoon Chung.  I'm currently an ECE student at the University of Washi
 
 Signal: @skril.1337
 
+<!---
 ![Geeoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=geeoon&theme=merko)
 
-<!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geeoon&theme=merko)
 
 Geeoon/Geeoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
