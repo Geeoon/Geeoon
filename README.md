@@ -1,4 +1,4 @@
-Hi, I’m Geeoon Chung.  I'm currently an ECE student at the University of Washington.  I like cybersecurity, networking, and embedded systems.
+Hi, I’m Geeoon Chung.  I'm currently an ECE student at the University of Washington.  I like cybersecurity, networking, and hardware acceleration.
 
 <!---
 ![Geeoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=geeoon&theme=merko)
