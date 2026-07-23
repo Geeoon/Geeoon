@@ -1,4 +1,4 @@
-Hi, I’m Geeoon Chung.  I'm currently an ECE student at the University of Washington.  I like cybersecurity, networking, and hardware acceleration.
+Hi, I’m Geeoon Chung.  I am currently a Product Security Engineer at Boeing.  I graduated from the University of Washington with a bachelor's in Elecrical and Computer Engineering in 2026.  I like hardware security and wireless communication.
 
 <!---
 ![Geeoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=geeoon&theme=merko)
